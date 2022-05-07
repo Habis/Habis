@@ -8,7 +8,7 @@
 
 ---
 
-⭐️ From [Habis](https://github.com/Habis)
+⭐️ From [Habis](https://github.com/Habis) - [Linkedin](https://es.linkedin.com/in/antonio-pardo-corral-658071145)
 
 <!---
 Habis/Habis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
