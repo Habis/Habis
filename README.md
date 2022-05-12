@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Antonio - Aka [Habis](https://github.com/Habis)
 
 - Salesforce Developer
-- Front-end development using **HTML, Javascript,CSS,Bootstrap, Vue JS**
+- Front-end development using **HTML, Javascript,CSS,Bootstrap, SLDS**
 - Backend development using **Apex, Node JS**
 - Cyber security
 - Scripting **Bash, Python**
